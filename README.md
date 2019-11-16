@@ -1,2 +1,3 @@
 # java-practices
-Some practices in java coding
+Some practices in java codingi<br>
+Git is git!
