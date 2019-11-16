@@ -1,2 +1,2 @@
 # java-practices
-Some practices in java coding
+Some practices in java coding and git
